@@ -1,34 +1,34 @@
 export function Benefits() {
   const benefits = [
     {
-      icon: "👤",
-      title: "Персональное обучение",
-      description: "Индивидуальные сессии под ваш уровень и карьерные цели",
+      icon: "🤝",
+      title: "Безопасная атмосфера",
+      description: "Консультации без осуждения — вас выслушают и поймут",
     },
     {
       icon: "⏰",
       title: "Гибкое расписание",
-      description: "Занятия в удобное для вас время",
+      description: "Сессии в удобное для вас время, включая вечер и выходные",
     },
     {
-      icon: "💬",
-      title: "Обратная связь в реальном времени",
-      description: "Мгновенные рекомендации и корректировки на занятиях",
+      icon: "💑",
+      title: "Работа с парами",
+      description: "Совместные и индивидуальные консультации для восстановления связи",
     },
     {
-      icon: "🚀",
-      title: "Карьерная поддержка",
-      description: "Помощь с резюме, подготовка к собеседованиям, трудоустройство",
+      icon: "🏠",
+      title: "Онлайн и офлайн",
+      description: "Выбирайте формат: видеозвонок из дома или личная встреча в кабинете",
     },
     {
-      icon: "🛠️",
-      title: "Инструменты и ресурсы",
-      description: "Доступ к шаблонам, гайдам и профессиональным инструментам",
+      icon: "🧠",
+      title: "Доказательные методы",
+      description: "Когнитивно-поведенческий и системно-семейный подходы",
     },
     {
-      icon: "📈",
-      title: "Бессрочный доступ",
-      description: "Поддержка и материалы даже после завершения обучения",
+      icon: "🌱",
+      title: "Долгосрочный результат",
+      description: "Инструменты для самостоятельной работы над отношениями",
     },
   ]
 
@@ -36,12 +36,12 @@ export function Benefits() {
     <section id="benefits" className="bg-background py-20 md:py-32">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <p className="text-accent font-semibold text-sm uppercase tracking-wide">Почему мы</p>
+          <p className="text-accent font-semibold text-sm uppercase tracking-wide">Почему выбирают меня</p>
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mt-2 text-balance">
-            Все для вашего успеха
+            Всё для восстановления отношений
           </h2>
           <p className="text-muted-foreground mt-4 max-w-2xl mx-auto">
-            Комплексное обучение для ускорения вашей карьеры виртуального ассистента
+            Профессиональная поддержка на каждом этапе — от первого визита до устойчивых изменений в семье
           </p>
         </div>
 

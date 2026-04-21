@@ -12,21 +12,20 @@ export function AboutTrainer() {
           {/* Content */}
           <div className="flex flex-col gap-6">
             <div>
-              <p className="text-accent font-semibold text-sm uppercase tracking-wide">О наставнике</p>
+              <p className="text-accent font-semibold text-sm uppercase tracking-wide">О психологе</p>
               <h2 className="text-3xl md:text-4xl font-bold text-foreground mt-2 text-balance">
-                Ваш коуч по успеху в VA
+                Ваш семейный психолог
               </h2>
             </div>
 
             <p className="text-lg text-muted-foreground leading-relaxed">
-              Более 10 лет опыта в виртуальном ассистировании и бизнес-операциях. Я помогла сотням
-              специалистов освоить навыки, необходимые для успеха в этой динамичной сфере.
+              Более 12 лет практики в области семейной психологии. Специализируюсь на помощи парам
+              в кризисных ситуациях, восстановлении отношений и работе с детско-родительскими конфликтами.
             </p>
 
             <p className="text-muted-foreground leading-relaxed">
-              Моя экспертиза охватывает административный менеджмент, коммуникацию с клиентами, координацию
-              проектов и владение цифровыми инструментами. Опыт работы с компаниями Fortune 500 и стартапами
-              дает мне уникальное понимание того, что действительно ценят работодатели.
+              Работаю по системно-семейному и когнитивно-поведенческому подходу. Каждая консультация —
+              это безопасное пространство, где вас выслушают без осуждения и помогут найти выход.
             </p>
 
             <div className="space-y-4 pt-4">
@@ -35,8 +34,8 @@ export function AboutTrainer() {
                   <span className="text-accent text-sm">&#10003;</span>
                 </div>
                 <div>
-                  <p className="font-semibold text-foreground">Сертифицированный коуч VA</p>
-                  <p className="text-sm text-muted-foreground">Признание лидерами отрасли</p>
+                  <p className="font-semibold text-foreground">Дипломированный психолог</p>
+                  <p className="text-sm text-muted-foreground">Членство в Ассоциации семейных психологов</p>
                 </div>
               </div>
               <div className="flex gap-3">
@@ -44,8 +43,8 @@ export function AboutTrainer() {
                   <span className="text-accent text-sm">&#10003;</span>
                 </div>
                 <div>
-                  <p className="font-semibold text-foreground">500+ выпускников</p>
-                  <p className="text-sm text-muted-foreground">95% карьерного роста</p>
+                  <p className="font-semibold text-foreground">300+ семей</p>
+                  <p className="text-sm text-muted-foreground">Восстановили гармонию в отношениях</p>
                 </div>
               </div>
               <div className="flex gap-3">
@@ -53,8 +52,8 @@ export function AboutTrainer() {
                   <span className="text-accent text-sm">&#10003;</span>
                 </div>
                 <div>
-                  <p className="font-semibold text-foreground">Персональный подход</p>
-                  <p className="text-sm text-muted-foreground">Адаптация под ваши цели</p>
+                  <p className="font-semibold text-foreground">Онлайн и офлайн</p>
+                  <p className="text-sm text-muted-foreground">Консультации в удобном для вас формате</p>
                 </div>
               </div>
             </div>
